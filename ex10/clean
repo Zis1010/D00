@@ -1,0 +1,1 @@
+find /home/radoman/D00/ex10 -name '#' -delete
